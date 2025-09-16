@@ -1,0 +1,12 @@
+version: '3'
+services:
+  redis-server:
+    image: 'redis'
+  node-app:
+    build: .
+    ports:
+      - "4001:8081"
+
+# visits:
+# docker build -t kishorrvcmvit/ivisits .
+# docker run --name cvisits -p 8081:8081 kishorrvcmvit/ivisits

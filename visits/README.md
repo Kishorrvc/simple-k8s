@@ -1,0 +1,1 @@
+visits project is node js application which keeps track of the number of visiting the website. redis is used to store and track the visiting count.
