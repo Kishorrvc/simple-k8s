@@ -16,7 +16,7 @@ function App() {
           <br />
           <br />
           <br />
-          Developed by - Kishor Kumar S
+          Prod completed by - Kishor Kumar S
         </h3>
 
         <a
